@@ -1,2 +1,2 @@
 # Socket-Project
-Socket Project for CSE 434
+Socket Project for DHT peers
