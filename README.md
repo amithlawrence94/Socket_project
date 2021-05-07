@@ -1,2 +1,2 @@
-# Socket_project
-Socket project with DHT table peers
+# Socket-Project
+Socket Project for CSE 434
